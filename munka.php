@@ -7,6 +7,3 @@ for ($i=0; $i <count($elements) ; $i++) {
 }
 
 echo "itt most nincs konfliktus";
-for ($j=0; $j <$elements ; $j++) { 
-	echo $elements[$j]."\n";
-}
