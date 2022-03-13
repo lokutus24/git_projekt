@@ -1,13 +1,12 @@
 <?php
 
-<<<<<<< HEAD
+
 $a = 10;
 $b = 11;
-echo $a+$b;
-=======
+$elements = [$a, $b];
+
 //for elements and write it.
 for ($i=0; $i <count($elements) ; $i++) { 
 	
 	echo $elements[$i]."\n";
 }
->>>>>>> raska
