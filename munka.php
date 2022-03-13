@@ -2,19 +2,12 @@
 
 //matamatika műveletek
 
-//összeadás
+function filter($array){
 
-$a = 10;
+	array_filter(function($a){
 
-$b = 20;
+		return $a*$a;
+	});
+}
 
-$c = 12;
-
-
-echo $a+$b+$c;
-
-
-
-//Kivonás
-
-$x = 35;
+filter([2,3,4]);
