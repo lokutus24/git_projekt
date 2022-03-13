@@ -17,3 +17,6 @@ for ($j=0; $j <count($elements); $j++) {
 	echo $elements[$j]."\n";
 }
 
+
+echo "itt most nincs konfliktus";
+
