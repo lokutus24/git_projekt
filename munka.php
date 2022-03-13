@@ -1,8 +1,7 @@
 <?php
 
 
-
-	//matamatika műveletek
+//matamatika műveletek
 
 
 
@@ -13,5 +12,8 @@ $a = 10;
 $b = 20;
 
 
+function method($a, $b){
+	return $a + $b;
+}
 
-echo $a+$b;
+echo method($a, $b);
