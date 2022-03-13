@@ -2,12 +2,9 @@
 
 //matamatika műveletek
 
-function filter($array){
 
-	array_filter(function($a){
+$elements = [2,3,4];
+array_filter($elements, function($a){
 
-		return $a*$a;
-	});
-}
-
-filter([2,3,4]);
+	return $a*$a;
+});
