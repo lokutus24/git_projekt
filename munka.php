@@ -1,9 +1,10 @@
 <?php
 
-//matamatika műveletek
+//for elements
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 $elements = [2,3,4];
 array_filter($elements, function($a){
 =======
@@ -30,3 +31,9 @@ function method($a, $b){
 
 echo method($a, $b);
 >>>>>>> kivonas
+=======
+for ($i=0; $i <count($elements) ; $i++) { 
+	
+	echo $elements[$i]."\n";
+}
+>>>>>>> raska
