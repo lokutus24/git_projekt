@@ -3,6 +3,7 @@
 
 $a = 10;
 $b = 11;
+$d = 124;
 $elements = [$a, $b];
 
 //for elements and write it.
