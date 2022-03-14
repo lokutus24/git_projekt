@@ -11,3 +11,8 @@ for ($i=0; $i <count($elements) ; $i++) {
 	echo $elements[$i]."\n";
 }
 
+//szorzas
+$kicsi = 3;
+$nagy = 23;
+
+print $kicsi*$nagy;
