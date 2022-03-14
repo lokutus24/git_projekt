@@ -11,8 +11,16 @@ for ($i=0; $i <count($elements) ; $i++) {
 	echo $elements[$i]."\n";
 }
 
+
 //szorzas
 $kicsi = 3;
 $nagy = 23;
 
 print $kicsi*$nagy;
+
+// Osztás
+
+$egyik = 25;
+$masik = 5;
+ print $egyik / $masik;
+
