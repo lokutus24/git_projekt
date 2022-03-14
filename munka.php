@@ -11,12 +11,3 @@ for ($i=0; $i <count($elements) ; $i++) {
 	echo $elements[$i]."\n";
 }
 
-
-echo "itt most nincs konfliktus";
-for ($j=0; $j <count($elements); $j++) { 
-	echo $elements[$j]."\n";
-}
-
-
-echo "itt most nincs konfliktus";
-
