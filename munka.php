@@ -16,4 +16,4 @@ function method($a, $b){
 	return $a + $b;
 }
 
-echo method($a, $b);
+echo method($a, $b)."\n";
