@@ -51,4 +51,4 @@ echo "ez itt egy új branch";
 
 
 
-echo "ez itt a main"
+echo "ez itt a mainkjkjnbkjbkjbkjb"
