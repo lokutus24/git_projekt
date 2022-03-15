@@ -40,4 +40,4 @@ function method($a, $b){
 echo method($a, $b)."\n";
 
 //update 2022.03.15
-echo "márciusi frissítés";
+echo "márciusi ifjak frissítés";
