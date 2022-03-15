@@ -43,3 +43,12 @@ echo method($a, $b)."\n";
 echo "márciusi ifjak frissítés";
 
 echo "szerkesztes 2";
+
+//goku branch
+echo "ez itt egy új branch";
+//szorzas
+
+
+
+
+echo "ez itt a main"
